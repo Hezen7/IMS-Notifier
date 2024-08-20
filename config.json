@@ -1,0 +1,21 @@
+{
+  "discord": {
+    "botToken": "YOUR DISCORD BOT API KEY",
+    "userId": "YOUR DISCORD USER ID"
+  },
+  "zones": {
+    "3201": "Gossamer Vault (Hard)",
+    "3202": "Draakon Arena (Hard)",
+    "9981": "Sanctuary's Ruins (Hard)",
+    "3023": "Akalath Quarantine",
+    "9750": "Rift's Edge",
+    "9994": "Thaumetal Refinery (Hard)",
+    "3101": "Gossamer Vault",
+    "3102": "Draakon Arena",
+    "9735": "RK-9 Kennel",
+    "9794": "Thaumetal Refinery",
+    "455": "Ravenous Gorge"
+  },
+  "language": "en", 
+  "resetTime": 5000 
+}
