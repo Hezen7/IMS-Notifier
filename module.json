@@ -3,7 +3,7 @@
     "author": "Hezen",
     "description": "A simple Tera-proxy module that notifies you on Discord private message when a IMS party is found - so you can queue without staying behind your screen.",
     "version": "1.0",
-    "servers": ["https://raw.githubusercontent.com/tera-toolbox-mods/battle-notify/master/"],
+    "servers": ["https://raw.githubusercontent.com/Hezen7/IMS-Notifier/master/"],
     "options": {
         "cliName": "IMS-Notifer",
         "guiName": "IMS-Notifer"
