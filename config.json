@@ -4,9 +4,10 @@
     "userId": "YOUR DISCORD USER ID"
   },
   "zones": {
+    "3107": "Corrupted RK-9 Kennel",
+    "3027": "Forbidden Arena [Hagufna]",
     "3201": "Gossamer Vault (Hard)",
-    "3202": "Draakon Arena (Hard)",
-    "9981": "Sanctuary's Ruins (Hard)",
+    "9044": "Frozen Bahaar's Sanctum",
     "3023": "Akalath Quarantine",
     "9750": "Rift's Edge",
     "9994": "Thaumetal Refinery (Hard)",
